@@ -1,8 +1,9 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://event-platform-d66f.onrender.com/",
+  baseURL: "https://event-platform-d66f.onrender.com/api",
 });
+export default api;
 
 // Attach JWT token automatically
 api.interceptors.request.use(
