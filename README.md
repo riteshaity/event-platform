@@ -85,7 +85,7 @@ Multer (file handling)
 
 Cloudinary (image uploads)
 
-Cloud & Deployment
+## Cloud & Deployment
 
 Frontend: Vercel
 
