@@ -2,8 +2,6 @@
 
 A full-stack MERN Event Management Platform that allows users to create events, browse upcoming events, and RSVP with strict capacity enforcement and concurrency safety.
 
-🔗 Live Demo: (add your Vercel URL here)
-🔗 Backend API: (add your Render URL here)
 
 Built as part of a Full Stack Developer Intern – Technical Screening Assignment.
 
